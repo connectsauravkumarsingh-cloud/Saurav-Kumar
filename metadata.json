@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS CITY — Intelligent Smart City Interface",
+  "description": "Building the Intelligent City of Tomorrow with Cloud, AI and Autonomous Infrastructure. A futuristic digital command interface and showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
